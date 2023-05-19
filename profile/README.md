@@ -1,4 +1,5 @@
-# Welcome to Automock
+# Welcome 👋
 
-**Automock is a TypeScript-based library designed for unit testing applications.**
-This is an open-source project that is working toward the goal of bringing improved software quality to the forefront. This will be accomplished by turning the concept of automated testing, particularly unit testing, into a practical library that can be used in TypeScript applications.
+This project aims to facilitate the implementation of software quality best practices by offering practical solutions and utilities. Our goal is to bridge the gap between theory and practice and empower developers to follow these best practices effectively.
+
+One of the primary focuses of this project is automated testing. We try to provide a range of utilities and libraries that can assist developers in writing comprehensive and reliable tests. These tools cover unit testing, integration testing, and end-to-end testing, enabling developers to ensure the quality and stability of their codebase.
